@@ -1,0 +1,16 @@
+.hi {
+    text-align: center;
+    color: blueviolet;
+    background: orange;
+
+}
+
+body {
+    background-image:url("/HTML/tree.jpg") ;
+    background-repeat:repeat-y;
+
+}
+p{
+    color: aqua;
+
+}

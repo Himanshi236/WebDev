@@ -1,0 +1,23 @@
+body {
+    background-color:black;
+    background-image: url("/ProjectMyPortfolio/himanshi.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+.header {
+    color: white;
+    h1 {
+    
+    font-size: 100px;
+    font-family: cursive;
+    }
+h2 {
+
+    font-size: 100px;
+    
+}
+p {
+
+}
+}

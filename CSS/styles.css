@@ -1,0 +1,30 @@
+/* Using id */
+#head{
+    color: blueviolet;
+    font: size 3px;
+    background-color:yellow;
+}
+h2{
+    color:green;
+}
+/* Way to make comments in css */
+body{
+    color: grey;
+}
+/* grouping selectors */
+/* id s should be unique */
+/* Class selectors */
+.rd{
+    color: red;
+    background-color:lightblue;
+}
+.bl{
+    color: blue;
+    background-color: yellow;
+}
+/* div and span are used for grouping ***div accomplish changes into new line whereas span make that chnges witjout starting new line */
+div{
+    text-transform: capitalize;
+
+}
+
